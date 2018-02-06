@@ -1,0 +1,29 @@
+body{
+	background-color:#F2D1BE;
+	margin: 20px;
+}	
+
+
+
+
+
+h2{
+	font-size: 20px;
+  font-weight: 700;
+  line-height: 1;
+  font-family: Georgia;
+  word-spacing: 0.05em;
+  letter-spacing: 0.02em;
+  text-transform: uppercase;
+
+}
+
+p{
+	font-family: Helvetica;
+	line-height: 1.3em;
+  	text-align: middle;
+    padding-top: 200px;
+  	margin-top: -200px;
+}
+
+
